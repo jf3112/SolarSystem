@@ -9,5 +9,10 @@ Features:
 - move camera around and toggle modes (camera on chosen planet/planet pov)
 - choose planets
 
-![With orbit view ON ](https://cdn.discordapp.com/attachments/718205154201174077/1100494880578478150/image.png)
+## Orbit view ON 
 
+![With orbit view ON](https://cdn.discordapp.com/attachments/718205154201174077/1100494880578478150/image.png)
+
+## Orbit view OFF
+
+![With orbit view OFF](https://cdn.discordapp.com/attachments/718205154201174077/1100496577719718058/image.png)
